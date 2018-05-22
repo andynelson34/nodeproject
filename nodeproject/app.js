@@ -1,2 +1,2 @@
-var aloha = 'aloha variables';
-console.log(aloha);
+var express = require('express');
+var app = express();
